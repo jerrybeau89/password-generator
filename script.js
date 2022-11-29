@@ -1,6 +1,7 @@
 // Get references to the #generate element
 var generateBtn = document.querySelector("#generate");
 
+
 //Creates an event listener for when the generate button is clicked and then runs the passwordGenerator function
 generateBtn.addEventListener("click", function(){
   passwordGenerator()
@@ -23,7 +24,7 @@ function passwordGenerator () {
     passLength = prompt("Enter the number of characters you would like in your password (8-128): ")
   } while (!passLength, (passLength < 8 || passLength > 128));
 
-  alert("Please choose at least 2 of the 4 following characters for the greatest password strength!")
+  alert("Please choose at least 2 of the 4 following characters for the greatest password strength!");
  
   //This variable uses a do while loop to validate if the user inputs yes/no as the prompt response. Any and all other answers will force the loop to continue until the either yes or no is provided. Finally it sets the variable's value to the users input.
   var includeLowerCase 
