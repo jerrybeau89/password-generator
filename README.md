@@ -23,11 +23,9 @@ No installation needed. The live page will run and allow for password generation
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![screenshot-of-start-screen](assets/images/password-gen-screen.png)
+![screenshot-of-screen-with-prompt](assets/images/Password-gen-promt-screen.png)
+![screenshot-with-password](assets/images/Password-gen-password.png)
 
 ## Credits
 
