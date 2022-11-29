@@ -23,6 +23,8 @@ No installation needed. The live page will run and allow for password generation
 
 ## Usage
 
+https://jerrybeau89.github.io/password-generator/
+
 ![screenshot-of-start-screen](assets/images/password-gen-screen.png)
 ![screenshot-of-screen-with-prompt](assets/images/Password-gen-promt-screen.png)
 ![screenshot-with-password](assets/images/Password-gen-password.png)
